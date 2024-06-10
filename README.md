@@ -17,7 +17,8 @@ To conduct the analysis, the following methodology was employed:
 
 >**2. Average Quantity Ordered:** The average quantity of cars ordered per transaction was found to be $5,586.549.
 
->**3. Distribution of Revenue by Product Line:** The following table presents the quantity ordered and sales revenue for each product line:(https://github.com/RIDDHIDHAMELIYA/Car-sales-analysis-with-dashboard-2019-Identifying-Key-Factors-for-Success/blob/main/Distribution%20of%20Revenue%20by%20Product%20Line.jpg)
+>**3. Distribution of Revenue by Product Line:** The following table presents the quantity ordered and sales revenue for each product line:
+>[Table link](https://github.com/RIDDHIDHAMELIYA/Car-sales-analysis-with-dashboard-2019-Identifying-Key-Factors-for-Success/blob/main/Distribution%20of%20Revenue%20by%20Product%20Line.jpg)
 
 >**4. The month with Highest Revenue:** November recorded the highest revenue in 2019.
 
